@@ -4,7 +4,7 @@ import { resorts } from "@/data/resorts";
 import { getThreadsByResort } from "@/data/forums";
 
 export const metadata: Metadata = {
-  title: "Forums — SummitHouse",
+  title: "Forums — Firn",
 };
 
 export default function ForumsPage() {

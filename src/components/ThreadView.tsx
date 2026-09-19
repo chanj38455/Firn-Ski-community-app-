@@ -6,7 +6,7 @@ import { AuthorType, ForumPost, ForumThread } from "@/lib/types";
 const AUTHOR_LABEL: Record<AuthorType, { label: string; className: string }> = {
   seasonnaire: { label: "Seasonnaire", className: "bg-emerald-100 text-emerald-700" },
   "holiday-goer": { label: "Holiday Maker", className: "bg-sky-100 text-sky-700" },
-  concierge: { label: "SummitHouse Concierge", className: "bg-gold/20 text-gold" },
+  concierge: { label: "Firn Concierge", className: "bg-gold/20 text-gold" },
 };
 
 function formatDate(iso: string) {

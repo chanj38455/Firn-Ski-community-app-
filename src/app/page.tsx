@@ -24,7 +24,7 @@ export default function Home() {
             Your holiday, designed around the mountain you love.
           </h1>
           <p className="mt-6 max-w-xl text-base leading-relaxed text-white/80">
-            SummitHouse connects you directly with three exceptional resorts —
+            Firn connects you directly with three exceptional resorts —
             Gstaad, Verbier and The Remarkables — with independent reviews,
             curated stays, and a concierge trip planner built around you.
           </p>

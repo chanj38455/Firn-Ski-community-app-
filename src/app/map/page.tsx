@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import ResortMap from "@/components/ResortMap";
 
 export const metadata: Metadata = {
-  title: "Interactive Resort Map — SummitHouse",
+  title: "Interactive Resort Map — Firn",
 };
 
 export default function MapPage() {

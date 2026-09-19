@@ -3,7 +3,7 @@ import ResortCard from "@/components/ResortCard";
 import { resorts } from "@/data/resorts";
 
 export const metadata: Metadata = {
-  title: "Resorts — SummitHouse",
+  title: "Resorts — Firn",
 };
 
 export default function ResortsPage() {

@@ -13,7 +13,7 @@ export async function generateMetadata({
 }: PageProps<"/forums/[resort]">): Promise<Metadata> {
   const { resort: slug } = await params;
   const resort = getResortBySlug(slug);
-  return { title: resort ? `${resort.name} Forum — SummitHouse` : "Forum — SummitHouse" };
+  return { title: resort ? `${resort.name} Forum — Firn` : "Forum — Firn" };
 }
 
 export default async function ResortForumPage({

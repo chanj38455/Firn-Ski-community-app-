@@ -3,7 +3,7 @@ import { Suspense } from "react";
 import TripPlannerWizard from "@/components/TripPlannerWizard";
 
 export const metadata: Metadata = {
-  title: "Trip Planner — SummitHouse",
+  title: "Trip Planner — Firn",
 };
 
 export default function PlannerPage() {

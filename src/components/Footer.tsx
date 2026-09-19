@@ -49,7 +49,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-ink-soft px-5 py-5 text-center text-xs text-paper/40 sm:px-8">
-        © {new Date().getFullYear()} SummitHouse. Placeholder brand for prototyping — replace with your business name.
+        © {new Date().getFullYear()} Firn. Placeholder brand for prototyping — replace with your business name.
       </div>
     </footer>
   );

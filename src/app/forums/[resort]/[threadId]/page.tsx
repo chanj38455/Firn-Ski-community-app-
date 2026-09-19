@@ -14,7 +14,7 @@ export async function generateMetadata({
 }: PageProps<"/forums/[resort]/[threadId]">): Promise<Metadata> {
   const { threadId } = await params;
   const thread = getThreadById(threadId);
-  return { title: thread ? `${thread.title} — SummitHouse` : "Thread — SummitHouse" };
+  return { title: thread ? `${thread.title} — Firn` : "Thread — Firn" };
 }
 
 export default async function ThreadPage({

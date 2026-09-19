@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "SummitHouse — Bespoke Ski Holidays",
+  title: "Firn — Bespoke Ski Holidays",
   description:
     "Bespoke, tailor-made ski holidays across Gstaad, Verbier and The Remarkables — interactive resort maps, independent reviews, curated accommodation, a trip planner, and community forums.",
 };

@@ -4,7 +4,7 @@ import { accommodations } from "@/data/accommodations";
 import { ResortSlug } from "@/lib/types";
 
 export const metadata: Metadata = {
-  title: "Accommodation — SummitHouse",
+  title: "Accommodation — Firn",
 };
 
 const VALID_SLUGS: ResortSlug[] = ["gstaad", "verbier", "remarkables"];

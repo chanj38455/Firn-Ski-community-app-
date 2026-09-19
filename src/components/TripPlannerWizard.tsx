@@ -324,7 +324,7 @@ export default function TripPlannerWizard() {
                 <div className="rounded-lg bg-ink p-6 text-paper">
                   <p className="font-display text-lg">Request received.</p>
                   <p className="mt-2 text-sm text-paper/70">
-                    A SummitHouse concierge will follow up to refine this itinerary
+                    A Firn concierge will follow up to refine this itinerary
                     with you. (Prototype note: this form doesn&apos;t send real
                     email yet — wire it to your booking backend/CRM.)
                   </p>

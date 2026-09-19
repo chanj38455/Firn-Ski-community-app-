@@ -15,7 +15,7 @@ export async function generateMetadata({
 }: PageProps<"/resorts/[slug]">): Promise<Metadata> {
   const { slug } = await params;
   const resort = getResortBySlug(slug);
-  return { title: resort ? `${resort.name} — SummitHouse` : "Resort — SummitHouse" };
+  return { title: resort ? `${resort.name} — Firn` : "Resort — Firn" };
 }
 
 export default async function ResortDetailPage({
