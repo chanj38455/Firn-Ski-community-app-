@@ -1,11 +1,8 @@
-# SummitHouse — Bespoke Ski Holidays
+# Firn — Bespoke Ski Holidays
 
 A prototype/starter web app for a luxury, tailor-made ski holiday business
 connecting travellers with resorts directly. Built with Next.js (App Router),
 TypeScript, and Tailwind CSS.
-
-**"SummitHouse" is a placeholder brand name** — swap it in `src/components/Navbar.tsx`,
-`src/components/Footer.tsx`, and `src/app/layout.tsx` metadata.
 
 ## What's here
 
