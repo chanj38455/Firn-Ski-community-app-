@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="mx-auto grid max-w-7xl gap-10 px-5 py-14 sm:px-8 md:grid-cols-4">
         <div>
           <span className="font-display text-lg text-paper">
-            SUMMIT<span className="text-gold">HOUSE</span>
+            F<span className="text-gold">IRN</span>
           </span>
           <p className="mt-3 max-w-xs text-sm leading-relaxed">
             Bespoke, tailor-made ski holidays — connecting discerning travellers
